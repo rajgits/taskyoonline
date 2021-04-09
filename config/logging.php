@@ -28,7 +28,7 @@ return [
     |
     | Available Drivers: "single", "daily", "slack", "syslog",
     |                    "errorlog", "monolog",
-    |                    "custom", "stack"
+    |                    "custom", " stack"
     |
     */
 
